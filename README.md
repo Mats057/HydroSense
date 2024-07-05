@@ -110,8 +110,6 @@ Para reproduzir este projeto, você precisará dos seguintes itens:
   ```
 
 
-## Integrantes
+## Criado por
 
-- [**Matheus Queiroz**](https://www.linkedin.com/in/matheus-zanutin/) - RM558801 
-- [**Matheus Vinícius**](https://www.linkedin.com/in/matheus-alves-8471942b1/) - RM555177
-- [**Marcela Torro**](https://www.linkedin.com/in/marcela-torro-b98a50237/) - RM557658
+- [**Matheus Queiroz**](https://www.linkedin.com/in/matheus-zanutin/)
